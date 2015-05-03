@@ -1,2 +1,2 @@
-Welcome To HQU
-Git is useful
+Git is a dietribute version control system
+git is free software
